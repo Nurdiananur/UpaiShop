@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982315910597",
+    "project_id": "upai-baa6c",
+    "storage_bucket": "upai-baa6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982315910597:android:310cf1b89d49ba096737ac",
+        "android_client_info": {
+          "package_name": "com.example.upai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982315910597-q31k48joilnscp6lfjjq987fgpmhumug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQvg9ZvY-N7x_zBs1Bq81vT5JN6Sk0_Ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982315910597-q31k48joilnscp6lfjjq987fgpmhumug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
